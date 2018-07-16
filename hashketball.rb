@@ -231,8 +231,8 @@ def most_points_scored
         most_points = player_hash[:points]
       end
     end
-    
   end
+   
    most_points_player
 end
 
